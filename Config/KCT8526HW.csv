@@ -1,0 +1,20 @@
+Continue On Fail,TRUE
+Stop On Fail,FALSE
+Continue On All Fail,FALSE
+Stop On Alarm,TRUE
+Continue On Alarm,FALSE
+Gold Unit Enable/Disable,TRUE
+User Calibration,FALSE
+Calibration Expiration,100
+Offline QA Enable,TRUE
+Encrypt Required,FALSE
+Inline enabled nth device,0
+Log nth Device,1
+Number of Sites,2
+Site1,TRUE
+Site2,FALSE
+
+
+
+
+

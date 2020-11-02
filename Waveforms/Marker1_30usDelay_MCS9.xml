@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MerlinTestMarker Version="1" xmlns="http://tempuri.org/XMLSchema1.xsd">  
+    <Comment>An example marker file.</Comment>
+    <Marker1>
+      <Sample>9600</Sample>
+    </Marker1>
+    <Marker2>
+      <Sample>0</Sample>
+    </Marker2>
+  <Marker3/>
+    <Marker4/>       
+</MerlinTestMarker>
